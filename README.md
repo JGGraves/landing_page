@@ -1,1 +1,1 @@
-# landing_page
+I am desiging a landing page project as part of the Odin Project cirriculum. I will practice what I've learned of html and css with the use of flexbox.
